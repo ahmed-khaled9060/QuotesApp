@@ -1,0 +1,14 @@
+h1 {
+  font-size: 5rem;
+}
+button {
+  width: 250px ;
+  height: 80px ;
+  background-color: blue;
+}
+button:hover {
+  background-color: green;
+}
+.parent p {
+  font-size: 2rem;
+}
